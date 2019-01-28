@@ -1,0 +1,31 @@
+disable-notifications.txt
+Created Mon Jan 28 09:41:48 AST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Disable notificiations
+
+
+By default Skype creates annoying individual popups for 
+all users in your group.  Unless required this can easily
+be disabled.  It required right-click each user in my
+group and unchecking "Tag for Status Change Alerts."
+
+Did not find a way to do this for all group members.  Only
+had 6 people in my group total so not difficutl to do.
+
+
+Click "Tools" in the main menu of your Skype application, and
+then select "Options" in the drop-down menu.  A dialog box with
+options launches in the application. Uncheck in the main panel
+all the types of notification pop-ups you wish to disable, and
+then click "Save" to save your settings.
+--smallbusiness.chron.com/rid-skype-popups-68939.html
+
+
+
+Links
+=====
+How to Get Rid of Skype Popups
+by Andrea Ruiz
+https://smallbusiness.chron.com/rid-skype-popups-68939.html
