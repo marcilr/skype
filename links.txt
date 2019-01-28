@@ -1,0 +1,17 @@
+links.txt
+Created Mon Jan 28 09:38:03 AST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Skype related links
+
+
+Links
+=====
+skype.txt
+  Skype
+  https://www.skype.com/en/
+
+syntax/
+  Syntax
