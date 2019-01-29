@@ -1,0 +1,20 @@
+minimize-on-startup.txt
+Created Tue Jan 29 09:51:54 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Minimize on startup
+
+
+To minimize skype on startup:
+  Gear icon (settings) > Tools > Options > Personal
+
+  uncheck Start the app in the foreground
+  click OK
+  --microsoft.com
+
+
+Links
+=====
+Minimize Skype for Business on Startup
+https://answers.microsoft.com/en-us/msoffice/forum/msoffice_sfb-mso_win10-mso_o365b/minimize-skype-for-business-on-startup/c5ea3f12-8906-4b25-bb02-0c755134be57
