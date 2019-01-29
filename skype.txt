@@ -6,6 +6,13 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Skype
 
 
+Conversation history
+====================
+Keeps conversation history in email.
+
+However, email can dropoff.
+
+
 Links
 =====
 Skype
