@@ -12,3 +12,11 @@ disable-notifications.txt
     by Andrea Ruiz
     https://smallbusiness.chron.com/rid-skype-popups-68939.html
 
+minimize-on-startup.txt
+   Minimize on startup
+
+  To minimize skype on startup:
+    Gear icon (settings) > Tools > Options > Personal
+
+    uncheck Start the app in the foreground
+    click OK
